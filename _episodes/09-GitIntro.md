@@ -13,5 +13,8 @@ keypoints:
 - "Make small commits."
 - "Use a remote repository to synchronize, collaborate and publish."
 ---
-
+> ## Git tutorial
+> Complete [this](https://try.github.io/levels/1/challenges/1) tutorial.
+{: .challenge}
+Further information avaliable [here](https://www.atlassian.com/git/tutorials).
 {% include links.md %}
